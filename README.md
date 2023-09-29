@@ -14,3 +14,5 @@ No nosso jornal os usuários poderão criar contar se logar em uma conta já exi
 4.FAQ: Os usuários não poderão postar novas notícias ou reportagens, isso será feito apelas pelos criadores do site.
 5.Suporte e contato:
 Qualquer dúvida ou algum ponto necessário para ser acrescentado se comunicar através do teams com os alunos: Júlia Borges, Marco Antônio, Maria Eduarda e Matheus Sarconi
+
+link do site: https://matheussarconi.github.io/Jornal/
